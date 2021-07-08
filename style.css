@@ -1,13 +1,9 @@
-body {background-color:gray;
-      font-family:arial narrow;
-      color:white;}
-h1{color:grey;
-   font-family:arial black;}
+body {background-color:black;font-family:arial;color:white}
+h1{color:grey;font-family:verdana}
 .maindiv {background-color:white;
         color:black;
-        width:480px;
+        width:300px;
         margin: auto;
-	padding:20px;
+	    padding:20px;
         border-radius: 25px;
         align:center;}
-table {margin-left:100px;}
