@@ -6,7 +6,7 @@ function compute()
 
     if (principal == "") 
     {   
-        alert("Amount can't by empty or alphabet character");
+        alert("Amount can't by empty or alphabet character, Enter a positive number");
         document.getElementById("principal").focus();
         return false;
     }
